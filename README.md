@@ -1,6 +1,6 @@
 # tizen
 
-* Typo
+*Typo
  *http:://www.github.com
  *coding style
   *
